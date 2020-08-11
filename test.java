@@ -1,12 +1,12 @@
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.Random;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
 public class test extends JFrame {
     
+    private static final long serialVersionUID = 1L;
     private JButton button;
     private int i = 0;
     
